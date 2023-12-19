@@ -11,7 +11,8 @@
           "name": "Digital X ray"
         }
        
-      ]
+      ],
+      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.5015559278645!2d7.539049975049616!3d5.492268234287136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1042c495e64943c5%3A0x38a631d3fe826ecb!2sUmuahia-Ikot%20Ekpene%20Rd%2C%20Oboro%20II%20440104%2C%20Abia!5e0!3m2!1sen!2sng!4v1702989112528!5m2!1sen!2sng"
 
     },
     {
@@ -27,7 +28,8 @@
         },
         { "id": "2", "name": " 4D Ultrasound services" },
         { "id": "3", "name": "ECG and other Laboratory investigations" }
-      ]
+      ],
+            "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.5015559278645!2d7.539049975049616!3d5.492268234287136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1042c495e64943c5%3A0x38a631d3fe826ecb!2sUmuahia-Ikot%20Ekpene%20Rd%2C%20Oboro%20II%20440104%2C%20Abia!5e0!3m2!1sen!2sng!4v1702989112528!5m2!1sen!2sng"
     
     },
     
@@ -45,7 +47,8 @@
         { "id": "2", "name": "Laboratory" },
         { "id": "3", "name": "Radiology/Imaging" },
         { "id": "4", "name": "Ambulance service" }
-      ]
+      ],
+            "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.5015559278645!2d7.539049975049616!3d5.492268234287136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1042c495e64943c5%3A0x38a631d3fe826ecb!2sUmuahia-Ikot%20Ekpene%20Rd%2C%20Oboro%20II%20440104%2C%20Abia!5e0!3m2!1sen!2sng!4v1702989112528!5m2!1sen!2sng"
 
     }
     
