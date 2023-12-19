@@ -43,7 +43,7 @@
           "name": "Hospital services"
         },
         { "id": "2", "name": "Laboratory" },
-        { "id": "3", "name": "Radiology/Imaging" }
+        { "id": "3", "name": "Radiology/Imaging" },
         { "id": "4", "name": "Ambulance service" }
       ],
 
