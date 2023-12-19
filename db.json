@@ -32,11 +32,11 @@
       "age": 30
     },
     {
-      "id": " 3",
-      "name": "LEAH MEDICAL CENTRE",
+      "id": "3",
+      "name": "Health ",
+      "short": "Health wellness diagnostic centre is your go-to place for high-tech health checks",
 
-      "short": "From hospital care and laboratory tests to cutting-edge radiology/imaging services, we've got your health covered",
-      "description": "From hospital care and laboratory tests to cutting-edge radiology/imaging services, we've got your health covered. Our dedicated team ensures that you receive top-notch medical attention, whether it's routine check-ups or advanced imaging procedures. Additionally, our ambulance service is available to provide swift and reliable transportation in times of need.",
+      "description": "Health wellness diagnostic centre is your go-to place for high-tech health checks. We offer digital X-rays, 4D ultrasound services, ECG, and other lab tests to give you a complete picture of your health. Our modern tools provide clear and detailed results, helping you and your doctor understand what's going on inside your body.",
       "services": [
         {
           "id": "1",
@@ -45,7 +45,7 @@
         { "id": "2", "name": " 4D Ultrasound services" },
         { "id": "3", "name": "ECG and other Laboratory investigations" }
       ],
-      "age": 22
+      "age": 30
     }
   ]
 }
