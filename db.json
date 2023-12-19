@@ -9,9 +9,8 @@
         {
           "id": "1",
           "name": "Digital X ray"
-        },
-        { "id": "2", "name": " 4D Ultrasound services" },
-        { "id": "3", "name": "ECG and other Laboratory investigations" }
+        }
+       
       ],
 
       "age": 25
@@ -41,10 +40,10 @@
       "services": [
         {
           "id": "1",
-          "name": "Hopsital Services"
+          "name": "Digital X ray"
         },
-        { "id": "2", "name": " Laboratory" },
-        { "id": "3", "name": "Radiology/Imaging,Ambulance service" }
+        { "id": "2", "name": " 4D Ultrasound services" },
+        { "id": "3", "name": "ECG and other Laboratory investigations" }
       ],
       "age": 22
     }
