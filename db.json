@@ -11,7 +11,7 @@
           "name": "Digital X ray"
         }
        
-      ],
+      ]
 
     },
     {
@@ -27,7 +27,7 @@
         },
         { "id": "2", "name": " 4D Ultrasound services" },
         { "id": "3", "name": "ECG and other Laboratory investigations" }
-      ],
+      ]
     
     },
     
@@ -45,7 +45,7 @@
         { "id": "2", "name": "Laboratory" },
         { "id": "3", "name": "Radiology/Imaging" },
         { "id": "4", "name": "Ambulance service" }
-      ],
+      ]
 
     }
     
