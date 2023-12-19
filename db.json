@@ -5,7 +5,14 @@
       "name": "Gregcare medical laboratory",
       "short": "Gregcare Medical laboratory is a leading provider of medical diagnostic services in Abia state.",
       "description": "Gregcare Medical laboratory is a leading provider of medical diagnostic services in Abia state. We offer a comprehensive range of diagnostic tests, including imaging, pathology, and specialized screenings. Our commitment to precision and patient care ensures that individuals receive the highest standard of diagnostic services, contributing to informed healthcare decisions and improved well-being.",
-      "services": "Medical diagnostic services",
+   "services": [
+        {
+          "id": "1",
+          "name": "Digital X ray"
+        },
+        { "id": "2", "name": " 4D Ultrasound services" },
+        { "id": "3", "name": "ECG and other Laboratory investigations" }
+      ],
 
       "age": 25
     },
